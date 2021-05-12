@@ -5,7 +5,7 @@ public class Ejercicio1{
         int aux = 1;
 
         for(int i = 1; i < n; i++){
-            System.out.println(num);
+            //System.out.println(num);
             if(i%2 == 0){
                 num = num +2;
             }else{
@@ -18,7 +18,7 @@ public class Ejercicio1{
             }
             
         }
-        System.out.println(num);
+        //System.out.println(num);
         return num;
         
     }
